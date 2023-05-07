@@ -10,7 +10,7 @@ namespace ImpactInnovators.API.Services
         public async Task<string> GetSecret()
         {
             string secretName = "webapi-access-secret";
-            string region = "us-east-1";
+            string region = "eu-south-2";
 
             IAmazonSecretsManager client = new AmazonSecretsManagerClient(RegionEndpoint.GetBySystemName(region));
 
