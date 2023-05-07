@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ImpactInnovators.API.props" />
+</Project>

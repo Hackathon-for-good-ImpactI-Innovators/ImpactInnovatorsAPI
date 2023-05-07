@@ -1,0 +1,15 @@
+C:\Users\gusti\AppData\Local\Temp\5d2d93f8-8a14-4ef8-ab77-7659cd4612d2\ImpactInnovators.API.exe
+C:\Users\gusti\AppData\Local\Temp\5d2d93f8-8a14-4ef8-ab77-7659cd4612d2\appsettings.Development.json
+C:\Users\gusti\AppData\Local\Temp\5d2d93f8-8a14-4ef8-ab77-7659cd4612d2\appsettings.json
+C:\Users\gusti\AppData\Local\Temp\5d2d93f8-8a14-4ef8-ab77-7659cd4612d2\ImpactInnovators.API.dll
+C:\Users\gusti\AppData\Local\Temp\5d2d93f8-8a14-4ef8-ab77-7659cd4612d2\ImpactInnovators.API.deps.json
+C:\Users\gusti\AppData\Local\Temp\5d2d93f8-8a14-4ef8-ab77-7659cd4612d2\ImpactInnovators.API.runtimeconfig.json
+C:\Users\gusti\AppData\Local\Temp\5d2d93f8-8a14-4ef8-ab77-7659cd4612d2\ImpactInnovators.API.pdb
+C:\Users\gusti\AppData\Local\Temp\5d2d93f8-8a14-4ef8-ab77-7659cd4612d2\AWSSDK.Core.dll
+C:\Users\gusti\AppData\Local\Temp\5d2d93f8-8a14-4ef8-ab77-7659cd4612d2\AWSSDK.S3.dll
+C:\Users\gusti\AppData\Local\Temp\5d2d93f8-8a14-4ef8-ab77-7659cd4612d2\AWSSDK.SecretsManager.dll
+C:\Users\gusti\AppData\Local\Temp\5d2d93f8-8a14-4ef8-ab77-7659cd4612d2\AWSSDK.TranscribeService.dll
+C:\Users\gusti\AppData\Local\Temp\5d2d93f8-8a14-4ef8-ab77-7659cd4612d2\Microsoft.OpenApi.dll
+C:\Users\gusti\AppData\Local\Temp\5d2d93f8-8a14-4ef8-ab77-7659cd4612d2\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\gusti\AppData\Local\Temp\5d2d93f8-8a14-4ef8-ab77-7659cd4612d2\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\gusti\AppData\Local\Temp\5d2d93f8-8a14-4ef8-ab77-7659cd4612d2\Swashbuckle.AspNetCore.SwaggerUI.dll
