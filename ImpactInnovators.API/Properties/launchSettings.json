@@ -6,8 +6,8 @@
       "launchUrl": "swagger",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development",
-        "API_ACCESS_KEY": "AKIAYR76LLH5E2WORBES",
-        "API_ACCESS_PASSWORD": "CVHB/HsQjty36j6ONjR4yaLonxVpIsr4nfBL+KQc"
+        "API_ACCESS_KEY": "",
+        "API_ACCESS_PASSWORD": ""
       },
       "dotnetRunMessages": true,
       "applicationUrl": "https://localhost:7049;http://localhost:5175"
